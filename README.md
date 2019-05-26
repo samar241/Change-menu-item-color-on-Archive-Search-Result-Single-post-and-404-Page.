@@ -1,3 +1,4 @@
+
 /* Main Header Adjustments */
 
 .single-post #et-top-navigation nav>ul>li>a {
@@ -9,5 +10,7 @@
 .search #et-top-navigation nav>ul>li>a {
     color: #09c384;
 }
-
+.error404 #et-top-navigation nav>ul>li>a {
+    color: #09c384;
+}
 /* End Main Header Adjustments */
